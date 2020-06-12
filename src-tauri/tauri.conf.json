@@ -22,10 +22,7 @@
         "icons/icon.ico"
       ],
       "resources": [],
-      "externalBin": [
-        "vietbible-binary/Viet.Bible.app",
-        "vietbible_binary/ipfs"
-      ],
+      "externalBin": ["vietbible-binaries/ipfs"],
       "copyright": "",
       "category": "DeveloperTool",
       "shortDescription": "",
